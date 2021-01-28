@@ -1,2 +1,2 @@
 # emego_os
-operation system emego(live cd)
+operation system Boxon(live cd)
