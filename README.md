@@ -1,2 +1,2 @@
-# emego_os
+# Boxon os long
 operation system Boxon(live cd)
